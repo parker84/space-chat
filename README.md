@@ -3,4 +3,4 @@ Space chatbot that uses Groq + streamlit and generates responses one word at a t
 
 Access it here: https://space-chat.streamlit.app/
 
-<img width="718" alt="image" src="https://github.com/parker84/space-chat/assets/12496987/ede35619-c8d3-44cf-875f-7c65f7127f75">
+![image](https://github.com/parker84/space-chat/assets/12496987/ac9d77cb-c03c-49f4-9d2b-076eddd2fc8e)
